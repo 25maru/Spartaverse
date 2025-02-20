@@ -103,7 +103,7 @@ public class Interaction : MonoBehaviour
 
         if (disableCollider)
         {
-            GetComponent<Collider>().enabled = false;
+            GetComponent<Collider2D>().enabled = false;
         }
 
         if (audioClips.Count != 0)
