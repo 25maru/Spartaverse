@@ -2951,7 +2951,11 @@ MonoBehaviour:
     sprite: {fileID: 21300040, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
   - spriteRenderer: {fileID: 682252315}
     sprite: {fileID: 21300008, guid: ed7554aeefd5da44a9fe1ee9b93afe77, type: 3}
-  audioClips: []
+  audioClips:
+  - {fileID: 8300000, guid: 7d41b9178658a5249b7776842cecea0a, type: 3}
+  - {fileID: 8300000, guid: 898e3ac4a0318124f94856f9871dc498, type: 3}
+  - {fileID: 8300000, guid: 8be3e64b6e6146942af818a98aaec1e3, type: 3}
+  - {fileID: 8300000, guid: ed3a43e6d1f200249a5f66590f33af53, type: 3}
   disableCollider: 0
   popupUI: {fileID: 0}
   sceneName: 
@@ -10699,7 +10703,9 @@ MonoBehaviour:
     sprite: {fileID: 21300160, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
   - spriteRenderer: {fileID: 820304782}
     sprite: {fileID: 21300100, guid: ed7554aeefd5da44a9fe1ee9b93afe77, type: 3}
-  audioClips: []
+  audioClips:
+  - {fileID: 8300000, guid: 23c7e9ec9ecf61f4a958a5d4a292f8f8, type: 3}
+  - {fileID: 8300000, guid: 9e4878d67e8da8b418b4d4fbfad2f1bd, type: 3}
   disableCollider: 1
   popupUI: {fileID: 0}
   sceneName: 
